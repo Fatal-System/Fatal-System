@@ -3,7 +3,7 @@
 - 🔭 Estamos no 3° semestre do curso de Análise e Desenvolvimento de Sistemas na UNIP.
 - 🌱 Temos conhecimento basico em C, C#, Figma e lógica de programação.
 - 👯 Atualmente estamos aprendendo Programação Orientada a Objetos em C#
-- 📫 Nosso contato: fredericobarreto@hotmail.com.br
+- 📫 Nosso contato: frederico.dellu@aluno.unip.br
 
 <div>
   <a href="https://github.com/Fatal-System">
