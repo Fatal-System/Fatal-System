@@ -1,3 +1,4 @@
+
 ## Ola, Somos estudante do curso de ADS. 
 
 - 🔭 Estamos no 3° semestre do curso de Análise e Desenvolvimento de Sistemas na UNIP.
@@ -13,6 +14,7 @@
 
 <div>
   <img align="center" alt="Fred-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Fred-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 </div>
 
 ##
