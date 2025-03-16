@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/Fatal-System">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fredeavatar&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fatal-System&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
   
 </div>
 
@@ -17,6 +17,3 @@
 
 ##
 
-<div>
-  <a href="https://www.instagram.com/fredericodellu_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
