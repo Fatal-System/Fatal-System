@@ -1,7 +1,7 @@
 
 ## Olá, Somos estudante do curso de ADS. 
 
-- 📫 Nosso contato: frederico.dellu@aluno.unip.br
+- 📫 Nosso contato: fatalsystem.unip@gmail.com
   
 <pre>Allyssan Marie Geraldo Castro     R089CG7     allyssan.castro@aluno.unip.br<br>
 Frederico Barreto Godoi Dellú     G963HF0     frederico.dellu@aluno.unip.br<br>
