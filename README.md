@@ -1,10 +1,19 @@
 
-## Ola, Somos estudante do curso de ADS. 
+## Olá, Somos estudante do curso de ADS. 
+
+- 📫 Nosso contato: frederico.dellu@aluno.unip.br
+  
+Allyssan Marie Geraldo Castro     R089CG7     allyssan.castro@aluno.unip.br
+Frederico Barreto Godoi Dellú     G963HF0     frederico.dellu@aluno.unip.br
+Gabriel Chiaramonte Gonçalves     R0536G4     gabriel.goncalves90@aluno.unip.br
+Liedson de Oliveira Silva         G90FAH0     liedson.silva2@aluno.unip.br
+Natália Chiaramonte Fernandes     R196763     natalia.fernandes12@aluno.unip.br
+Rodrigo de Oliveira Chaves        R036GI6     rodrigo.chaves7@aluno.unip.br
+
 
 - 🔭 Estamos no 3° semestre do curso de Análise e Desenvolvimento de Sistemas na UNIP.
 - 🌱 Temos conhecimento basico em C, C#, Figma e lógica de programação.
 - 👯 Atualmente estamos aprendendo Programação Orientada a Objetos em C#
-- 📫 Nosso contato: frederico.dellu@aluno.unip.br
 
 <div>
   <a href="https://github.com/Fatal-System">
